@@ -4,7 +4,9 @@ This project is a random color generator that allows users to generate and copy 
 
 Features:
 🎨 Generate random colors
+
 🖱️ Click on color boxes to copy the color code
+
 📱 Responsive design for different devices
 
 Technologies Used:
